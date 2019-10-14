@@ -5,7 +5,8 @@ def parrot( a = "Pretty bird!")
  puts "Squawk!"
  "Squawk!"
  else if 
-   a == "Pretty bird"
+   a == "Pretty bird!"
+   puts "pretty bird!"
 
 
  
