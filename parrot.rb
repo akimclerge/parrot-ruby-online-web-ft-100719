@@ -4,9 +4,6 @@ def parrot( a = "Pretty bird!")
  if a !== "Squawk!"
  puts "Squawk!"
  "Squawk!"
- else if 
-   a == "Pretty bird!"
-   puts "pretty bird!"
  end
 
 
